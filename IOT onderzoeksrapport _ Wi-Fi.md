@@ -97,7 +97,11 @@ WiFi HaLow biedt een minimum van 150kbps output met 1 MHz bandbreedte.
 
 ## Bronnen
 [Wikipedia - Wi-Fi](https://nl.wikipedia.org/wiki/Wi-Fi)
+
 [Wikipedia - IEEE 802.11](https://nl.wikipedia.org/wiki/IEEE_802.11)
+
 [Hoe werkt wifi en hoe kunt u een verbinding maken?](https://www.killmybill.be/nl/wifi/)
+
 [Wifi HaLow & IoT](https://medium.com/@bemyapp/wifi-halow-iot-13e1809c9813)
+
 [Giant strides to connect all things with Wi-Fi 802.11ah (HaLow)](https://wifinowglobal.com/news-and-blog/giant-strides-connect-things-wi-fi-802-11ah-halow/)
